@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/mnt/c/Users/HP/IdeaProjects/Library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Library 1.0-SNAPSHOT API'
+se.yrgo.models
+se.yrgo.ui
+se.yrgo.utilities
+/mnt/c/Users/HP/IdeaProjects/Library/src/main/java = 1706988206385
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/allclasses-index.html = 1707052140543
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/allpackages-index.html = 1707052140550
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/element-list = 1707052140103
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/help-doc.html = 1707052140630
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/index-all.html = 1707052140608
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/index.html = 1707052140513
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/jquery-ui.overrides.css = 1707052140714
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/member-search-index.js = 1707052140569
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/module-search-index.js = 1707052140555
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/overview-summary.html = 1707052140615
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/overview-tree.html = 1707052140505
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/package-search-index.js = 1707052140559
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/script.js = 1707052140643
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/search.js = 1707052140649
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/serialized-form.html = 1707052140242
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/stylesheet.css = 1707052140638
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/tag-search-index.js = 1707052140574
+/mnt/c/Users/HP/IdeaProjects/Library/target/site/apidocs/type-search-index.js = 1707052140565
